@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7D5EDC9424FB42A900C794EF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5EDC9324FB42A900C794EF /* main.swift */; };
+		7D5EDC9B24FB52F000C794EF /* Silla.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5EDC9A24FB52F000C794EF /* Silla.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		7D5EDC9024FB42A900C794EF /* EstadinatorSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EstadinatorSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D5EDC9324FB42A900C794EF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7D5EDC9A24FB52F000C794EF /* Silla.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Silla.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				7D5EDC9324FB42A900C794EF /* main.swift */,
+				7D5EDC9A24FB52F000C794EF /* Silla.swift */,
 			);
 			path = EstadinatorSwift;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D5EDC9424FB42A900C794EF /* main.swift in Sources */,
+				7D5EDC9B24FB52F000C794EF /* Silla.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
